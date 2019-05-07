@@ -1,3 +1,2 @@
 # hello-world
-Just another repository '\n' 
-Or is it... ?
+Just another repository, or is it... ?
